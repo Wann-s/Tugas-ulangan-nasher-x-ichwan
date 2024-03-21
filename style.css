@@ -1,0 +1,144 @@
+.bgimage {
+  background-image: url("img/motor.jpg"); /* Ganti dengan URL gambar latar belakang yang sesuai */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.kartu {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  text-align: center;
+}
+.kartu-judul {
+  margin-bottom: 20px;
+}
+
+.kartu-box {
+  border: 2px solid #333;
+  border-radius: 10px;
+  padding: 20px;
+}
+.text {
+  margin-bottom: 20px;
+}
+.web {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.web:hover {
+  background-color: #555;
+}
+
+.cid-ryh8XVUoGh {
+  background-color: #333;
+  color: #fff;
+  padding: 30px;
+  cursor: pointer;
+}
+
+.kile {
+  margin-top: 1%;
+}
+.kine {
+  font-size: 14px;
+  padding: 7px;
+  color: gray;
+  cursor: pointer;
+}
+.slam p {
+  font-size: 14px; /* Ukuran huruf */
+}
+.slam ul {
+  font-size: 12px; /* Ukuran huruf */
+}
+.slam ul li i {
+  font-style: italic; /* Membuat teks menjadi italic */
+  font-size: 12px; /* Ukuran huruf */
+}
+.product-card {
+  cursor: pointer;
+}
+.product-card:hover {
+  transform: scale(1.05);
+}
+
+.btn-learn-more {
+  background-color: #007bff; /* Warna latar belakang */
+  color: #fff; /* Warna teks */
+  padding: 10px 20px; /* Padding */
+  border: none; /* Menghilangkan border */
+  border-radius: 5px; /* Sudut tombol */
+  cursor: pointer; /* Kursor */
+  font-size: 16px; /* Ukuran huruf */
+  margin-top: 10px; /* Jarak dari atas */
+  margin-bottom: 40px; /* Jarak dari bawah */
+  display: inline-block; /* Tampilan inline */
+}
+
+.mbr-section-subtitle {
+  font-size: 1.5rem; /* Ukuran huruf */
+  text-align: center; /* Menengahkan teks */
+  margin-top: 20px; /* Jarak dari atas */
+  height: 15px;
+}
+
+.mbr-section-title {
+  text-align: center; /* Menengahkan teks */
+  margin-top: 20px; /* Jarak dari atas */
+  font-size: 50px;
+}
+
+.bgcolor.scrolled {
+  background-color: #333;
+  color: #34c7c7;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-icons a {
+  color: #ccc;
+  margin: 0.5rem;
+  transition: color 0.2s ease-in-out;
+  height: 2em;
+  width: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.social-icons a:hover {
+  color: #fff;
+  background-color: #555;
+}
+
+.social-icons a:hover {
+  color: #34c7c7;
+  background-color: #333;
+}
+
+.coin {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.neon {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #333;
+  color: #fff;
+}
